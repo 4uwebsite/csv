@@ -81,17 +81,3 @@ const CSVDownloader = (function() {
 
 export { CSVConverter as csvConverter }
 export { CSVDownloader as csvDownloader }
-
-
-
-
-
-
-
-
-
-
-
-export { CSVConverter as csvConverter }
-
-
